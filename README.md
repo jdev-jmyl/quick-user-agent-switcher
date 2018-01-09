@@ -1,5 +1,5 @@
-# Quick Accept-Language Switcher
+# Quick User-Agent Switcher
 
-Provides a quick way of changing the HTTP Accept-Language header so you can view and test websites with a different locale.
+Provides a quick way of changing the HTTP User-Agent header. 
 
 Released under the terms of the [MIT license](https://opensource.org/licenses/MIT).
